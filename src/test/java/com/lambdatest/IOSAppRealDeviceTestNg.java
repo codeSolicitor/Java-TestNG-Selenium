@@ -10,7 +10,7 @@ import org.testng.asserts.SoftAssert;
 import java.net.MalformedURLException;
 import java.net.URL;
 
-public class AppRealDeviceTestNg {
+public class IOSAppRealDeviceTestNg {
 
   private AppiumDriver driver;
 
